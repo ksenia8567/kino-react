@@ -1,0 +1,13 @@
+.categories {
+    margin-top: 30px;
+}
+.categories__name {
+    color: #fff;
+    font-size: 44px;
+}
+
+.categories__link {
+    width: 120px;
+    height: 2px;
+    background: #fff;
+}

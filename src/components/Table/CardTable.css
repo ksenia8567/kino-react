@@ -1,0 +1,25 @@
+.card__table {
+    margin-top: 80px;
+}
+
+.table__inner {
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+
+.table__block {
+    width: 500px;
+}
+
+.block__item {
+    display: flex;
+    justify-content: space-between;
+    margin: 4px 0px;
+}
+
+
+.item__name {
+    color: #F2F60F;
+    text-align: left;
+}

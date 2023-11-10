@@ -1,0 +1,25 @@
+.quote {
+    background: #191E2E;
+    padding: 50px 30px;
+    border-radius: 10px;
+    margin-top: 40px;
+    position: relative;
+}
+
+.quote__text {
+    color: #bebebe;
+}
+
+.quote__name {
+    color:#fff;
+    margin-top: 9px;
+    font-weight: 700;
+}
+
+.kv {
+    position: absolute;
+    font-size: 120px;
+    color: #1d253e;
+    top: -50px;
+    font-style: italic;
+}

@@ -1,0 +1,20 @@
+.cards__inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 70px 0px;
+}
+
+.btn_new {
+  text-align: center;
+}
+
+.btn_new > button {
+  background-color: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  padding: 16px 35px;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}

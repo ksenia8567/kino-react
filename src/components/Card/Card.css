@@ -1,0 +1,19 @@
+.card {
+    width: 339px;
+    margin: 20px 0px;
+    text-decoration: none;
+    position: relative;
+}
+
+.card__image > img {
+    border-radius: 10px;
+}
+
+.card__name {
+    color: #fff;
+    margin: 4px 0px;
+}
+
+.card__categories {
+    color: yellow;
+}

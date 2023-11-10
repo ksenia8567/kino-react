@@ -1,0 +1,8 @@
+header {
+    margin: 20px 0px;
+}
+
+.header__btn {
+    display: flex;
+    align-items: center;
+}

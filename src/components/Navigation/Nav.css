@@ -1,0 +1,16 @@
+.nav__link__header {
+    text-decoration: none;
+    color: #fff;
+    margin: 0px 10px;
+}
+
+.nav__link__categories {
+    opacity: 0.4;
+    text-decoration: none;
+    color: #fff;
+    margin: 0px 10px;
+}
+
+.nav__link__categories:hover {
+    opacity: 1;
+}
